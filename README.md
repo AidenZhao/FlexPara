@@ -6,7 +6,6 @@
 
   <p align="center">
     <br />
-    
     <a href="https://aidenzhao.github.io/"><strong>Yuming Zhao</strong></a>
     ·
     <a href="https://keeganhk.github.io/"><strong>Qijian Zhang</strong></a>
