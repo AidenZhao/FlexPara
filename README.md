@@ -6,6 +6,7 @@
 
   <p align="center">
     <br />
+    <h3 align="center">TPAMI 2023</h3>
     <a href="https://aidenzhao.github.io/"><strong>Yuming Zhao</strong></a>
     ·
     <a href="https://keeganhk.github.io/"><strong>Qijian Zhang</strong></a>
