@@ -3,9 +3,8 @@
     <h1 align="center">
         <a href="https://arxiv.org/abs/2504.19210">FlexPara</a>: Flexible Neural Surface Parameterization
     </h1>
-
+<h3 align="center">TPAMI 2023</h3>
   <p align="center">
-    <h3 align="center">TPAMI 2023</h3>
     <br />
     <a href="https://aidenzhao.github.io/"><strong>Yuming Zhao</strong></a>
     ·
