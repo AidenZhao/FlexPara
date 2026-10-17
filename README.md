@@ -20,7 +20,13 @@
   </p>
   
 <p align="center">
-    <a href='https://arxiv.org/abs/2504.19210'><img src='https://img.shields.io/badge/arxiv-2504.19210-red'  alt='Arxiv'></a>
+    <a href="https://arxiv.org/abs/2504.19210"><img src="https://img.shields.io/badge/arXiv-2504.19210-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv"></a>
+    <a href="https://ieeexplore.ieee.org/document/11226966"><img src="https://img.shields.io/badge/TPAMI-2025-1f6feb.svg" alt="TPAMI 2025"></a>
+    <a href="https://ieeexplore.ieee.org/document/11226966"><img src="https://img.shields.io/badge/IEEE%20Xplore-Paper-00629b.svg?logo=ieee&logoColor=white" alt="IEEE Xplore"></a>
+    <br>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9-3776ab.svg?logo=python&logoColor=white" alt="Python 3.9"></a>
+    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-1.10-ee4c2c.svg?logo=pytorch&logoColor=white" alt="PyTorch 1.10"></a>
+    <a href="https://github.com/AidenZhao/FlexPara"><img src="https://img.shields.io/github/stars/AidenZhao/FlexPara?style=social" alt="GitHub stars"></a>
   </p>
 
 </p>
